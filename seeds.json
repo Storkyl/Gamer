@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Wheat",
+        "growth_time": 2,
+        "value": 10,
+        "price": 0
+    },
+    {
+        "name": "Rice",
+        "growth_time": 2,
+        "value": 10,
+        "price": 0
+    },
+    {
+        "name": "Tomato",
+        "growth_time": 3,
+        "value": 20,
+        "price": 30
+    },
+    {
+        "name": "Grape",
+        "growth_time": 4,
+        "value": 30,
+        "price": 60
+    },
+    {
+        "name": "Potato",
+        "growth_time": 5,
+        "value": 40,
+        "price": 120
+    },
+    {
+        "name": "Eggplant",
+        "growth_time": 3,
+        "value": 30,
+        "price": 240
+    },
+    {
+        "name": "Soybeans",
+        "growth_time": 2,
+        "value": 30,
+        "price": 300
+    },
+    {
+        "name": "Strawberry",
+        "growth_time": 5,
+        "value": 80,
+        "price": 350
+    },
+    {
+        "name": "Corn",
+        "growth_time": 7,
+        "value": 100,
+        "price": 500
+    },
+    {
+        "name": "Blueberry",
+        "growth_time": 5,
+        "value": 350,
+        "price": 1500
+    }
+]
